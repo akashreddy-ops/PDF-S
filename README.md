@@ -6,7 +6,7 @@ I’m excited to share that I’ve successfully completed several MOOCs and onli
 ✅ Validate skills with industry-recognized courses
 ✅ Show commitment to continuous learning
 
-I’ve uploaded all my certificates on GitHub so anyone can check them out! 💡 Feel free to explore them here: [https://github.com/akashreddy-ops]
+I’ve uploaded all my certificates on GitHub so anyone can check them out! 💡 Feel free to explore them here: [https://github.com/akashreddy-ops].
 
 Always excited to learn, grow, and connect with like-minded individuals! 🚀
 
